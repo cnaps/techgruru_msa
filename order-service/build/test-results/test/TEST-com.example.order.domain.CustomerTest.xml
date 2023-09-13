@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.order.domain.CustomerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-09-12T14:49:20" hostname="hanjeongheon-ui-MacBookPro.local" time="0.021">
+  <properties/>
+  <testcase name="reserveCredit()" classname="com.example.order.domain.CustomerTest" time="0.012"/>
+  <testcase name="getCreditLimit()" classname="com.example.order.domain.CustomerTest" time="0.001"/>
+  <testcase name="getName()" classname="com.example.order.domain.CustomerTest" time="0.001"/>
+  <testcase name="availableCredit()" classname="com.example.order.domain.CustomerTest" time="0.001"/>
+  <testcase name="getId()" classname="com.example.order.domain.CustomerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
